@@ -1,0 +1,5 @@
+langchain_community
+pypdf
+langchain_huggingface
+langchain_qdrant
+langchain-groq
